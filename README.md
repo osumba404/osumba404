@@ -43,12 +43,12 @@
 
 ## **🚀 Featured Projects**  
 
-### **[Project 1](https://github.com/galaxie-dev/digital_leap-enterprise)**  
+### **[DIGITAL LEAP AFRICA](https://github.com/galaxie-dev/digital_leap-enterprise)**  
 📝 *An eLearning Platform for Digital Leap Africa Community.*  
 🔧 **Tech:** PHP, MySQL, Javascript  
 ⭐ **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/galaxie-dev/digital_leap-enterprise?style=flat-square)  
 
-### **[Project 2](https://github.com/galaxie-dev/looma)**  
+### **[LOOMA](https://github.com/galaxie-dev/looma)**  
 📝 *This is an affiliate marketing platform.*  
 🔧 **Tech:** PHP, MySQL, Javascript  
 ⭐ **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/galaxie-dev/looma?style=flat-square)  
