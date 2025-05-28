@@ -1,10 +1,10 @@
 # **Hi, I'm Evans Osumba** 👋  
 **Software Engineer | Open-Source Contributor | Tech Enthusiast**  
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)  
-[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)  
-[![Website](https://img.shields.io/badge/Website-Portfolio-orange)](https://yourportfolio.com)  
+[![GitHub followers](https://img.shields.io/github/followers/galaxie-dev?style=social)](https://github.com/galaxie-dev)  
+[![Twitter](https://img.shields.io/twitter/follow/Osumba_ke?style=social)](https://x.com/Osumba_ke)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/evans-osumba-0565b42b0/)  
+[![Website](https://img.shields.io/badge/Website-Portfolio-orange)](https://evansosumba.vercel.app)  
 
 🔭 **Currently working on:** [Eyeonic](https://github.com/galaxie/eyeonic)  
 🌱 **Learning:** Mobile development with java
