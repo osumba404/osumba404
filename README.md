@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)  
 [![Website](https://img.shields.io/badge/Website-Portfolio-orange)](https://yourportfolio.com)  
 
-🔭 **Currently working on:** [Project Name](https://github.com/galaxie/Eyeonic)  
+🔭 **Currently working on:** [Eyeonic](https://github.com/galaxie/eyeonic)  
 🌱 **Learning:** Mobile development with java
 💬 **Ask me about:** PHP, JavaScript, Web Design 
 ⚡ **Fun fact:** I automate everything I can!  
