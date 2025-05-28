@@ -48,27 +48,22 @@
 🔧 **Tech:** PHP, MySQL, Javascript  
 ⭐ **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/galaxie-dev/digital_leap-enterprise?style=flat-square)  
 
-### **[Project 2](https://github.com/yourusername/project2)**  
-📝 *Short description of what it does.*  
-🔧 **Tech:** React, Node.js, MongoDB  
-⭐ **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/galaxie-dev/project2?style=flat-square)  
+### **[Project 2](https://github.com/galaxie-dev/looma)**  
+📝 *This is an affiliate marketing platform.*  
+🔧 **Tech:** PHP, MySQL, Javascript  
+⭐ **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/galaxie-dev/looma?style=flat-square)  
 
 ---
 
-## **📝 Latest Blog Posts**  
-- [How I Built a Scalable Microservice](https://yourblog.com/post1)  
-- [Automating Deployments with GitHub Actions](https://yourblog.com/post2)  
-
----
 
 ## **📫 How to Reach Me**  
-- **Email:** your.email@example.com  
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)  
+- **Email:** osumbaevans21@gmail.com  
+- **Twitter:** [@Osumba_ke](https://twitter.com/Osumba_ke)  
+- **LinkedIn:** [Evans Osumba](https://www.linkedin.com/in/evans-osumba-0565b42b0/)  
 
 ---
 
 ## **💡 Visitor Count**  
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)  
+![Visitor Count](https://profile-counter.glitch.me/galaxie-dev/count.svg)  
 
 ⭐ **Thanks for visiting!**  
