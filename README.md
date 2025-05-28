@@ -33,11 +33,11 @@
 
 ## **📊 GitHub Stats**  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=galaxie-dev&show_icons=true&theme=radical&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxie-dev&layout=compact&theme=radical&hide_border=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=galaxie-dev&theme=radical&hide_border=true)  
 
 ---
 
@@ -46,12 +46,12 @@
 ### **[Project 1](https://github.com/yourusername/project1)**  
 📝 *Short description of what it does.*  
 🔧 **Tech:** Python, FastAPI, PostgreSQL  
-⭐ **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/yourusername/project1?style=flat-square)  
+⭐ **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/galaxie-dev/project1?style=flat-square)  
 
 ### **[Project 2](https://github.com/yourusername/project2)**  
 📝 *Short description of what it does.*  
 🔧 **Tech:** React, Node.js, MongoDB  
-⭐ **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/yourusername/project2?style=flat-square)  
+⭐ **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/galaxie-dev/project2?style=flat-square)  
 
 ---
 
