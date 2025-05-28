@@ -16,25 +16,18 @@
 ## **🛠️ Tech Stack**  
 
 ### **Languages**  
-![PHP](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 
 ### **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-
-### **DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)   
 
 ### **Databases**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
 
 ---
 
