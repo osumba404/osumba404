@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-Portfolio-orange)](https://evansosumba.vercel.app)  
 
 🔭 **Currently working on:** [Eyeonic](https://github.com/galaxie/eyeonic)  
-🌱 **Learning:** Mobile development with java
+🌱 **Learning:** Mobile development with java and Flutter
 💬 **Ask me about:** PHP, JavaScript, Web Design 
 ⚡ **Fun fact:** I automate everything I can!  
 
