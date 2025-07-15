@@ -33,11 +33,11 @@
 
 ## **📊 GitHub Stats**  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=galaxie-dev&show_icons=true&theme=radical&hide_border=true)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=osumba404&show_icons=true&theme=radical&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxie-dev&layout=compact&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=galaxie-dev&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=osumba404&theme=radical&hide_border=true)  
 
 ---
 
@@ -46,12 +46,12 @@
 ### **[DIGITAL LEAP AFRICA](https://github.com/galaxie-dev/digital_leap-enterprise)**  
 📝 *An eLearning Platform for Digital Leap Africa Community.*  
 🔧 **Tech:** PHP, MySQL, Javascript  
-⭐ **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/galaxie-dev/digital_leap-enterprise?style=flat-square)  
+⭐ **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/osumba404/digital_leap-enterprise?style=flat-square)  
 
 ### **[LOOMA](https://github.com/galaxie-dev/looma)**  
 📝 *This is an affiliate marketing platform.*  
 🔧 **Tech:** PHP, MySQL, Javascript  
-⭐ **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/galaxie-dev/looma?style=flat-square)  
+⭐ **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/osumba404/looma?style=flat-square)  
 
 ---
 
@@ -64,6 +64,6 @@
 ---
 
 ## **💡 Visitor Count**  
-![Visitor Count](https://profile-counter.glitch.me/galaxie-dev/count.svg)  
+![Visitor Count](https://profile-counter.glitch.me/osumba404/count.svg)  
 
 ⭐ **Thanks for visiting!**  
