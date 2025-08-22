@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Evans Osumba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
-<h3 align="center">Software Engineer & Open Source Advocate</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="https://evansosumba.vercel.app">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/osumba404/osumba404/main/assets/custom-banner.png" alt="Profile Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/osumba404/osumba404/banner.png" alt="Profile Banner" width="800"/>
 </p>
 
 ---
