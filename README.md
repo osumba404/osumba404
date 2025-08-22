@@ -102,8 +102,14 @@ I'm a passionate software engineer with expertise in building scalable web appli
 
 ---
 
-## 📈 Coding Activity
+## 📈  Let's Connect
+<p align="center"> <a href="https://evansosumba.vercel.app"> <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/evans-osumba-0565b42b0/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a> <a href="https://x.com/Osumba_ke"> <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" height="40"/> </a> <a href="mailto:osumbaevans21@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/> </a> </p>
+
+## Visitor Count
+<p align="center"> <img src="https://profile-counter.glitch.me/osumba404/count.svg" /> </p><h3 align="center">⭐ Thanks for visiting my profile!</h3><p align="center"> <img src="https://raw.githubusercontent.com/osumba404/osumba404/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p> ```
+
 
 <!--START_SECTION:waka-->
 ```text
 No activity tracked
+
