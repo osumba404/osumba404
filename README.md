@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/osumba404/osumba404/banner.png" alt="Profile Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/osumba404/osumba404/main/banner.png" alt="Profile Banner" width="800"/>
 </p>
 
 ---
