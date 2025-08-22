@@ -1,98 +1,92 @@
-<h1 align="center">Hi there, I'm Evans Osumba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
+<h1 align="center">
+  Hi there, I'm Evans Osumba 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
 
 <p align="center">
-  <img src="https://github.com/osumba404/osumba404/blob/main/assets/banner.png" alt="Profile Banner" />
+  <img src="https://raw.githubusercontent.com/osumba404/osumba404/main/assets/banner.png" alt="Profile Banner" />
 </p>
 
 <p align="center">
-  <strong>Software Engineer</strong> • <strong>Open Source Contributor</strong> • <strong>Tech Enthusiast</strong><br/>
-  <a href="https://evansosumba.vercel.app">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/evans-osumba-0565b42b0/">LinkedIn</a> • 
-  <a href="https://x.com/Osumba_ke">Twitter</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/osumba404">
-    <img src="https://img.shields.io/github/followers/osumba404?label=Follow&style=social" />
-  </a>
-  <a href="https://x.com/Osumba_ke">
-    <img src="https://img.shields.io/twitter/follow/Osumba_ke?style=social" />
-  </a>
-  <a href="https://evansosumba.vercel.app">
-    <img src="https://img.shields.io/badge/Website-Portfolio-orange" />
-  </a>
+  <b>Software Engineer</b> • <b>Open Source Contributor</b> • <b>Tech Enthusiast</b>  
+  <br/>
+  <a href="https://evansosumba.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-1abc9c?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/evans-osumba-0565b42b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Osumba_ke"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
-
 - 🔭 Currently building: [**Eyeonic**](https://github.com/osumba404/eyeonic)  
-- 🌱 Learning: **Mobile development with Java & Flutter**  
-- 💬 Ask me about: **PHP, JavaScript, Web Design**  
-- ⚡ Fun fact: I automate everything I can 🤖
+- 🌱 Exploring: **Mobile Development with Java & Flutter**  
+- 💬 Let’s talk about: **PHP, JavaScript, and Web Design**  
+- ⚡ Fun fact: I automate everything I can 🤖  
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![JavaScript](https://skillicons.dev/icons?i=js) 
+![PHP](https://skillicons.dev/icons?i=php) 
+![Python](https://skillicons.dev/icons?i=python) 
+![Java](https://skillicons.dev/icons?i=java) 
 
 **Frameworks & Libraries**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Laravel](https://skillicons.dev/icons?i=laravel) 
+![Django](https://skillicons.dev/icons?i=django) 
+![Flask](https://skillicons.dev/icons?i=flask) 
+![Flutter](https://skillicons.dev/icons?i=flutter)  
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osumba404&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=osumba404&theme=radical&hide_border=true" width="98%" />
-</p>
+**Databases & Tools**  
+![MySQL](https://skillicons.dev/icons?i=mysql) 
+![Git](https://skillicons.dev/icons?i=git) 
+![Vercel](https://skillicons.dev/icons?i=vercel) 
+![Docker](https://skillicons.dev/icons?i=docker)  
 
 ---
 
-### ⏱ WakaTime Coding Stats
+### 📊 GitHub Analytics
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osumba404&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=osumba404&theme=tokyonight&hide_border=true" width="96%" />
+</p>
 
 ---
 
 ### 🌟 Featured Projects
 
 #### 🔹 [Digital Leap Africa](https://github.com/osumba404/digital_leap-enterprise)
-> *An eLearning platform for the Digital Leap Africa community.*  
+> *An eLearning platform empowering African learners.*  
 Tech: `PHP` `MySQL` `JavaScript`  
-⭐ Stars: ![Stars](https://img.shields.io/github/stars/osumba404/digital_leap-enterprise?style=social)
+⭐ ![Stars](https://img.shields.io/github/stars/osumba404/digital_leap-enterprise?style=social)
 
 ---
 
 #### 🔹 [Looma](https://github.com/osumba404/looma)
-> *An affiliate marketing platform built for scale.*  
+> *Affiliate marketing platform designed for scale.*  
 Tech: `PHP` `MySQL` `JavaScript`  
-⭐ Stars: ![Stars](https://img.shields.io/github/stars/osumba404/looma?style=social)
+⭐ ![Stars](https://img.shields.io/github/stars/osumba404/looma?style=social)
+
+---
+
+### ⏱ Coding Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osumba404&theme=tokyo-night&hide_border=true" width="98%"/>
+</p>
 
 ---
 
 ### 📫 Contact Me
-
-- 📧 Email: [osumbaevans21@gmail.com](mailto:osumbaevans21@gmail.com)  
-- 💼 LinkedIn: [Evans Osumba](https://www.linkedin.com/in/evans-osumba-0565b42b0/)  
-- 🐦 Twitter: [@Osumba_ke](https://x.com/Osumba_ke)
+- 📧 [osumbaevans21@gmail.com](mailto:osumbaevans21@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/evans-osumba-0565b42b0/)  
+- 🐦 [Twitter](https://x.com/Osumba_ke)  
 
 ---
 
