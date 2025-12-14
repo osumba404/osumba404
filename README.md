@@ -69,20 +69,20 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=osumba404&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce3ec8&text_color=ffffff&icon_color=ce3ec8" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=osumba404&theme=radical&hide_border=true&background=0d1117&stroke=ce3ec8&ring=ce3ec8&fire=ce3ec8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ce3ec8&sideLabels=ffffff&dates=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=osumba404&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce3ec8&text_color=ffffff&icon_color=ce3ec8&include_all_commits=true&count_private=true" alt="osumba404's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=osumba404&theme=radical&hide_border=true&background=0d1117&stroke=ce3ec8&ring=ce3ec8&fire=ce3ec8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ce3ec8&sideLabels=ffffff&dates=ffffff" alt="osumba404's Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce3ec8&text_color=ffffff" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=osumba404&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce3ec8&text_color=ffffff&langs_count=10" alt="osumba404's Top Languages" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=osumba404&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="osumba404's Trophies" />
 </p>
 
 ---
 
 ### ⏱ Coding Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osumba404&theme=tokyo-night&hide_border=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osumba404&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="osumba404's Activity Graph"/>
 </p>
 
 ---
