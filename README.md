@@ -1,9 +1,14 @@
-<h1 align="center">Hi there, I'm Evans Osumba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hi there, I'm Evans Osumba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://evansosumba.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  <a href="https://github.com/osumba404">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fxara+Code&weight=600&size=22&pause=1000&color=ce3ec8&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Mobile+Architect;Machine+Learning+Engineer;Community+Lead+%40+Digital+Leap+Africa;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://osumba.digitalleap.africa">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/evans-osumba-0565b42b0/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -20,18 +25,21 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software engineer with expertise in building scalable web applications and digital solutions.  
-I enjoy turning complex problems into simple, beautiful, and intuitive solutions.  
-When I'm not coding, you can find me exploring new technologies, contributing to open source, or sharing knowledge with the developer community.
+I am a **Software Developer** and **Machine Learning Engineer** passionate about bridging the gap between complex algorithms and intuitive user experiences. I specialize in building scalable web and mobile applications that solve real-world problems.
 
-- 🔭 Currently building:  
-  [**Eyeonic**](https://github.com/osumba404/animal-iq) •  
-  [**Digital Leap Africa**](https://github.com/osumba404/digital-leap-africa) •  
-  [**DMS**](https://github.com/osumba404/DMS-sem3project)  
-- 🌱 Expanding my skills in: **Mobile Development with Java & Flutter**  
-- 👯 Looking to collaborate on: **Open source PHP and JavaScript projects**  
-- 💬 Ask me about: **PHP, JavaScript, Web Design, API Development**  
-- ⚡ Fun fact: I automate everything I can 🤖 and love coffee ☕
+Beyond the code, I am deeply invested in the tech ecosystem as the **Community Lead** at [**Digital Leap Africa**](https://digitalleap.africa), where I help empower the next generation of developers.
+
+<div align="center">
+
+| 🔭 Current Focus | 👯 Collaboration | ⚡ Fun Fact |
+| :--- | :--- | :--- |
+| Expanding my skills in **Generative AI** and **Mobile Architecture** (Flutter/Java) | Looking for open source contributions in **PHP (Laravel)** and **JavaScript** | I automate everything I can 🤖 and I run on **Coffee** ☕ |
+
+</div>
+
+<br />
+
+> *"I enjoy turning complex problems into simple, beautiful, and intuitive solutions."*
 
 ---
 
