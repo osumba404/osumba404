@@ -89,26 +89,6 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 ## 🚀 Featured Projects
 
-### 🔹 [Eyeonic](https://github.com/osumba404/eyeonic)
-> *An innovative vision solution platform*
->
-> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 🔹 [Digital Leap Africa](https://github.com/osumba404/digital-leap-africa)
-> *An eLearning platform for the Digital Leap Africa community*
->
-> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### 🔹 [Looma](https://github.com/osumba404/looma)
-> *An affiliate marketing platform built for scale*
->
-> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
