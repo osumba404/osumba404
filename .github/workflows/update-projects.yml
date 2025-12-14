@@ -1,0 +1,46 @@
+name: Update Featured Projects
+on:
+  schedule:
+    # Runs every day at midnight
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Project List
+        id: generate
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          # Fetch top 3 public repos sorted by stars
+          # You can change '--sort stars' to '--sort updated' for latest projects
+          REPOS=$(gh repo list $USERNAME --public --sort stars --limit 3 --json name --jq '.[].name')
+          
+          CONTENT=""
+          for REPO in $REPOS; do
+            # Appends a Dynamic Repo Card for each project
+            CONTENT="$CONTENT<a href='https://github.com/$USERNAME/$REPO'><img src='https://github-readme-stats.vercel.app/api/pin/?username=$USERNAME&repo=$REPO&theme=radical&bg_color=0d1117&title_color=ce3ec8&icon_color=ce3ec8&text_color=ffffff&hide_border=true' align='center' /></a><br/><br/>"
+          done
+          
+          # Escape newlines for the replacement to work
+          CONTENT="${CONTENT//$'\n'/\\n}"
+          echo "PROJECTS=$CONTENT" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        uses: patternfly/patternfly-next/action-update-readme@v1
+        with:
+          # This replaces the content between the markers
+          file_path: README.md
+          start_tag: end_tag: content: ${{ steps.generate.outputs.PROJECTS }}
+          
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🤖 Auto-update featured projects"
