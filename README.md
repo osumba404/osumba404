@@ -24,8 +24,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=osumba404&label=Profile%20views&color=0e75b6&style=flat)
 
-[![committers.top badge](https://user-badge.committers.top/kenya/osumba404.svg)](https://user-badge.committers.top/kenya/osumba404)
-
 
 ---
 
