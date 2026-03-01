@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I go by the name Evans Osumba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I am Evans Osumba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/osumba404">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fxara+Code&weight=600&size=22&pause=1000&color=ce3ec8&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Mobile+Developer;Machine+Learning+Engineer;Community+Lead+at+Digital+Leap+Africa;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fxara+Code&weight=600&size=22&pause=1000&color=ce3ec8&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Mobile+and+Web+Developer;Data+Scientist" alt="Typing SVG" />
   </a>
 </p>
 
@@ -80,7 +80,7 @@ Beyond the code, I am deeply invested in the tech ecosystem as the **Community L
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=osumba404&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce3ec8&text_color=ffffff&icon_color=ce3ec8&include_all_commits=true&count_private=true" alt="osumba404's GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=osumba404&theme=radical&hide_border=true&background=0d1117&stroke=ce3ec8&ring=ce3ec8&fire=ce3ec8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ce3ec8&sideLabels=ffffff&dates=ffffff" alt="osumba404's Streak" />
 </p>
@@ -88,6 +88,15 @@ Beyond the code, I am deeply invested in the tech ecosystem as the **Community L
 <p align="center">
   <img width="49%" src="https://github-readme-stats-osumba404.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
   <img width="49%" src="https://github-profile-trophy-osumba404.vercel.app/?username=osumba404&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+</p> -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=osumba404&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=osumba404&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=osumba404&theme=radical&no-frame=true&row=2&column=4" />
 </p>
 <!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce3ec8&text_color=ffffff&langs_count=12" alt="osumba404's Top Languages" />
