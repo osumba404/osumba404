@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/osumba404">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fxara+Code&weight=600&size=22&pause=1000&color=ce3ec8&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Mobile+and+Web+Developer;Data+Scientist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fxara+Code&weight=600&size=22&pause=1000&color=ce3ec8&center=true&vCenter=true&width=600&lines=Software+Developer;Mobile+and+Web+Developer;Data+Scientist" alt="Typing SVG" />
   </a>
 </p>
 
@@ -94,10 +94,13 @@ Beyond the code, I am deeply invested in the tech ecosystem as the **Community L
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=osumba404&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&langs_count=6&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&langs_count=6&exclude_repo=repo1,repo2,repo3)
+<!-- <p align="center">
+
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true" />
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=osumba404&theme=radical&no-frame=true&row=2&column=4" />
-</p>
+</p> -->
 <!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce3ec8&text_color=ffffff&langs_count=12" alt="osumba404's Top Languages" />
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=osumba404&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="osumba404's Trophies" />
