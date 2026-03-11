@@ -89,22 +89,22 @@ Beyond the code, I am deeply invested in the tech ecosystem as the **Community L
   <img width="49%" src="https://github-readme-stats-osumba404.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
   <img width="49%" src="https://github-profile-trophy-osumba404.vercel.app/?username=osumba404&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=osumba404&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=osumba404&theme=radical&hide_border=true" />
 </p>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&langs_count=6&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&langs_count=6&exclude_repo=repo1,repo2,repo3)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&langs_count=6&exclude_repo=repo1,repo2,repo3) -->
 <!-- <p align="center">
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true" />
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=osumba404&theme=radical&no-frame=true&row=2&column=4" />
 </p> -->
-<!-- <p align="center">
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce3ec8&text_color=ffffff&langs_count=12" alt="osumba404's Top Languages" />
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=osumba404&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="osumba404's Trophies" />
-</p> -->
+</p> 
 
 ---
 
