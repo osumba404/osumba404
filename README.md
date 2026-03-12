@@ -96,11 +96,12 @@ Beyond the code, I am deeply invested in the tech ecosystem as the **Community L
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&langs_count=6&hide_border=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&langs_count=6&exclude_repo=repo1,repo2,repo3) -->
-<!-- <p align="center">
+<!-- -->
+<p align="center">
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true" />
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=osumba404&theme=radical&no-frame=true&row=2&column=4" />
-</p> -->
+</p> 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce3ec8&text_color=ffffff&langs_count=8" alt="osumba404's Top Languages" />
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=osumba404&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="osumba404's Trophies" />
