@@ -52,9 +52,6 @@ I am a **Software Developer** and **Data Analyst**. I assist people, organisatio
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=osumba404&theme=radical&hide_border=true&background=0d1117&stroke=ce3ec8&ring=ce3ec8&fire=ce3ec8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ce3ec8&sideLabels=ffffff&dates=ffffff" alt="osumba404's Streak" />
 </p>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&langs_count=6&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&langs_count=6&exclude_repo=repo1,repo2,repo3) -->
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osumba404&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce3ec8&text_color=ffffff&langs_count=8" alt="osumba404's Top Languages" />
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=osumba404&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="osumba404's Trophies" />
