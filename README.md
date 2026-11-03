@@ -4,13 +4,8 @@
 
 ---
 
-## 👨‍💻 About Me
 
-I am a **Software Developer** and **Data Analyst**. I assist people, organisations and businesses get value, publicity, automate their activities, and streamline workflows digitally using robust software systems. I tend to thrive on challenges and am always up to the task, bringing a multidisciplinary blend of engineering, creativity, and simpliity to every project. 
-
-<br />
-
-> *"Just do it."*
+**Software Developer** and **Data Analyst**.
 
 ---
 
